@@ -1,0 +1,9 @@
+body{
+    background-color: blue;
+}
+
+.content{
+    color: tomato;
+    text-align: center;
+    font-size: 30px; 
+}
